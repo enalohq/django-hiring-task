@@ -1,5 +1,6 @@
 #Assignment
 This is a sample exercise which is similar to the kind of work you would be doing as an Intern at [Enable Financial](https://enablefin.com).
+
 __Technologies__: Python, Django, REST APIs, GitHub.
 
 __Objective__: Integrate GitHub with a Django application via the GitHub REST API.
